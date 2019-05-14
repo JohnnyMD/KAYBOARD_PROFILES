@@ -1,6 +1,7 @@
-﻿## My KAYBOARD PROFILES
+## My KAYBOARD PROFILES
 
 **<u>Keyboard</u>**: Cooler Master SK630
+
 **<u>SW</u>**: [Cooler Master Portal v1.01](https://www.coolermaster.com/downloads/)
 
 #### Profile 1
