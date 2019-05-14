@@ -1,4 +1,4 @@
-## My KAYBOARD PROFILES
+## My KEYBOARD PROFILES
 
 **<u>Keyboard</u>**: [Cooler Master SK630](https://eu.coolermaster.com/de/peripherals/keyboards/sk630/)
 
